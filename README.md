@@ -1,6 +1,11 @@
-# Calculadora-Javascript
+<h1 align="center">
+Calculadora em Javascript
+</h1>
 
-Uma calculadora feita em JavaScript.
+## Techs
+
+- [x] HTML5, CSS3
+- [x] Javascript
 
 ![Foto](FotoCalculadora.png)
 
